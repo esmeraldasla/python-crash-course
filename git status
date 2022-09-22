@@ -1,0 +1,30 @@
+[33mcommit 0cf0a326a9c8ffbfdbf99c02ea2b883733f80d78[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 10f409c e406b22
+Author: esmeraldalima <mel_limaa6@hotmail.com>
+Date:   Thu Sep 22 10:23:43 2022 -0300
+
+    Merge branch 'main' of github.com:esmeraldasla/python-crash-course
+
+[33mcommit 10f409cb3c7bdfd03a449621458aff1f04b7ff44[m
+Author: esmeraldalima <mel_limaa6@hotmail.com>
+Date:   Thu Sep 22 10:23:17 2022 -0300
+
+    commiting initial unstaged files
+
+[33mcommit e406b222531c7dfeb9f72cf8e4d87b0a3e98b954[m
+Author: esmeraldasla <99513833+esmeraldasla@users.noreply.github.com>
+Date:   Thu Sep 22 10:19:45 2022 -0300
+
+    Update README.md
+
+[33mcommit 7c8533a74220b56749ffca914b785946cb8b0c35[m
+Author: esmeraldalima <mel_limaa6@hotmail.com>
+Date:   Thu Sep 22 10:14:09 2022 -0300
+
+    Chapter 5 added and conditional file added.
+
+[33mcommit ca60129c78ef6c418c36aaffae955876378fe82d[m
+Author: esmeraldasla <99513833+esmeraldasla@users.noreply.github.com>
+Date:   Thu Sep 22 09:51:31 2022 -0300
+
+    Initial commit
