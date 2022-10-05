@@ -1,7 +1,9 @@
 alien_color = 'green'
 
-if 'green' in alien_color:
+if alien_color == 'green':
     print("You just earned 5 points")
 
-if 'red' in alien_color:
-    print("You lost 5 points")
+alien_color = 'red'
+
+if alien_color == 'green':
+    print("You just earned 5 points")
