@@ -2,16 +2,7 @@
 manufacturer and a model name. It should then accept an arbitrary number of keyword arguments. Call the function with
 the required information and two other name-value pairs, such as a color or an optional feature. """
 
-def car(manufacturer, model, **options):
-    print("\nCar information:")
-    car_info = {
-        'manufacturer': manufacturer.title(),
-        'model': model.title(),
-    }
-    for option, value in options.items():
-        car_info[option] = value
-
-    return car_info
+from cars_import_file import car
 
 my_new_car = car('porshe', 'moon', color='black', year=2019)
 print(my_new_car)
