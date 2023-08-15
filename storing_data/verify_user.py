@@ -23,7 +23,7 @@ def get_new_username():
 
 
 def check_user():
-    """Check if the username is correct"""
+    """Check if the username is correct and greet the user"""
     username = get_stored_username()
     check_username = input(f"Is your name {username}. Say Yes or No:")
     if check_username == 'Yes':
